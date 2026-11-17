@@ -46,6 +46,7 @@ int main() {
     printf("Media de 2020: %.2f\n", media_2020);
     printf("Media de 2021: %.2f\n", media_2021);
     printf("Media de 2022: %.2f\n\n", media_2022);
+    printf("=== SISTEMA DE CONTROLE DE VENDAS ===\n\n");
 
     // Testes logicos com operadores relacionais (>) e logicos (&&)
     if (media_2020 > media_2021 && media_2020 > media_2022) {
