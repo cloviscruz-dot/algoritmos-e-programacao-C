@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+     printf("=== SISTEMA DE CONTROLE DE VENDAS ===\n\n");
     // Variaveis simples para armazenar as vendas de cada produto por ano
     float tv_2020, noteb_2020, smart_2020;
     float tv_2021, noteb_2021, smart_2021;
